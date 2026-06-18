@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/niakapanadze](https://github.com/niakapanadze)
+- 👨‍💻 All of my projects are available at [https://github.com/niakapanadze?tab=repositories](https://github.com/niakapanadze?tab=repositories)
 
 - 📫 How to reach me **niakapanadze2012@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nia</h1>
 <h3 align="center">A passionate frontend developer from Georgia who is still learning</h3>
 
-- 🔭 I’m currently working on [a space project](https://github.com/niakapanadze/Space-Project)
+- 🔭 I’m currently working on [a dance project](https://github.com/niakapanadze/georgian_dance_school)
 
 - 🌱 I’m currently learning **Python**
 
